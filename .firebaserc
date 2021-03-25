@@ -1,6 +1,5 @@
 {
   "projects": {
-    "default": "weatherreactjs",
-    "samweatherreactjs": "weatherreactjs"
+    "samaelweatherreactjs": "weatherreactjs"
   }
 }
